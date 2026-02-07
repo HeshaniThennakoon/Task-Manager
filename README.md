@@ -143,4 +143,4 @@ CREATE TABLE tasks (
 
 ---
 
-Thank you for reviewing my project!
+# Thank you for reviewing my project!
